@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: ¡Primera Entrada!
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mattis arcu non finibus porta. Curabitur odio orci, dictum tristique augue ac, iaculis semper risus. Maecenas tincidunt nibh metus, sit amet tempor lectus malesuada id. Praesent et ante accumsan, luctus lectus a, scelerisque orci. Cras ac erat id nibh viverra sagittis. Aliquam eleifend tellus id iaculis finibus. Cras gravida, dui et congue dapibus, felis urna venenatis ipsum, ac volutpat leo ipsum mattis odio. Etiam bibendum nisi et quam mollis, et dignissim turpis sagittis. Aliquam diam sem, tempus eu pellentesque nec, iaculis eu nunc. Aliquam sodales, augue sed sagittis ullamcorper, dui nibh condimentum ligula, non maximus est massa ut nulla. Pellentesque ultrices nulla ut eros lacinia, quis pretium elit elementum.
