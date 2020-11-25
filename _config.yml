@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+theme: jekyll-theme-merlot
 # Name of your site (displayed in the header)
 name: Website DAR 2020 Unir
 
