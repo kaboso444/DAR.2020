@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-Some information about you!
+Alumno: Carlos Gutiérrez
 
-### More Information
+### Descripción
 
-A place to include any other types of information that you'd like to include about yourself.
+Sitio creado para la primera actividad de la asignatura de Desarrollo de Aplicaciones en Red. Se ha hecho fork de Barry Clark.
 
-### Contact me
+### Contacto
 
-[email@domain.com](mailto:email@domain.com)
+[kaboso@gmail.com](mailto:kaboso@gmail.com)
